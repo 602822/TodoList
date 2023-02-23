@@ -1,0 +1,15 @@
+C:\Users\vefje\RiderProjects\TodoListCSharp\TodoListCSharp\bin\Debug\net7.0\TodoListCSharp.exe
+C:\Users\vefje\RiderProjects\TodoListCSharp\TodoListCSharp\bin\Debug\net7.0\TodoListCSharp.deps.json
+C:\Users\vefje\RiderProjects\TodoListCSharp\TodoListCSharp\bin\Debug\net7.0\TodoListCSharp.runtimeconfig.json
+C:\Users\vefje\RiderProjects\TodoListCSharp\TodoListCSharp\bin\Debug\net7.0\TodoListCSharp.dll
+C:\Users\vefje\RiderProjects\TodoListCSharp\TodoListCSharp\bin\Debug\net7.0\TodoListCSharp.pdb
+C:\Users\vefje\RiderProjects\TodoListCSharp\TodoListCSharp\obj\Debug\net7.0\TodoListCSharp.csproj.AssemblyReference.cache
+C:\Users\vefje\RiderProjects\TodoListCSharp\TodoListCSharp\obj\Debug\net7.0\TodoListCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vefje\RiderProjects\TodoListCSharp\TodoListCSharp\obj\Debug\net7.0\TodoListCSharp.AssemblyInfoInputs.cache
+C:\Users\vefje\RiderProjects\TodoListCSharp\TodoListCSharp\obj\Debug\net7.0\TodoListCSharp.AssemblyInfo.cs
+C:\Users\vefje\RiderProjects\TodoListCSharp\TodoListCSharp\obj\Debug\net7.0\TodoListCSharp.csproj.CoreCompileInputs.cache
+C:\Users\vefje\RiderProjects\TodoListCSharp\TodoListCSharp\obj\Debug\net7.0\TodoListCSharp.dll
+C:\Users\vefje\RiderProjects\TodoListCSharp\TodoListCSharp\obj\Debug\net7.0\refint\TodoListCSharp.dll
+C:\Users\vefje\RiderProjects\TodoListCSharp\TodoListCSharp\obj\Debug\net7.0\TodoListCSharp.pdb
+C:\Users\vefje\RiderProjects\TodoListCSharp\TodoListCSharp\obj\Debug\net7.0\TodoListCSharp.genruntimeconfig.cache
+C:\Users\vefje\RiderProjects\TodoListCSharp\TodoListCSharp\obj\Debug\net7.0\ref\TodoListCSharp.dll
